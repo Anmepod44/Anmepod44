@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Anmepod44
-- 👀 I’m interested in machine learning(computer vision),data science and algorithms
-- 🌱 I’m currently learning Web development using Spring,clustering algorithms and computer security
+We Move
 
 
 <!---
